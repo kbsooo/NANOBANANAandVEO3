@@ -1,16 +1,20 @@
 # nano banana & veo3 활용 과제
 
-## input
+## OG IMAGES
 - 고양이 (제가 키우는) 의 다양한 구도 사진을 준비했습니다.
 ![cat1](./input/cat1.JPG)
 ![cat2](./input/cat2.JPG)
 ![cat3](./input/cat3.JPG)
 ![cat4](./input/cat4.JPG)
 
-- 순다르 피차이와 데미스 하사비스가 같이 있는 사진을 준비했습니다. (순다르 피차이가 X 에 트윗한 이미지)
+
+- 순다르 피차이와 데미스 하사비스가 같이 있는 사진을 준비했습니다.
+
+(출처: [순다르 피차이 X](https://x.com/sundarpichai/status/1924620525101580603?s=46))
+
 ![SPandDH](./input/SPandDH.JPG)
 
-## output
+## TRIALS
 
 ### trial 1
 
