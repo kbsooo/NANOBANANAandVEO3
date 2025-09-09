@@ -46,4 +46,7 @@
 >왼쪽 사람이 주머니에서 손을 꺼내서 고양이를 쓰다듬고 고양이는 좋아하는 영상을 만들어줘
 
 **output:**
+
+클릭하시면 유튜브로 이동됩니다!
+
 [![veo3](https://img.youtube.com/vi/5HagJSCJr10/0.jpg)](https://www.youtube.com/watch?v=5HagJSCJr10)
